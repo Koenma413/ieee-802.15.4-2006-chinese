@@ -133,7 +133,10 @@ git push origin chapter_5.1
 - 如何换行：连敲两次回车键，即可换行。
 - 首字母如何缩进：将您的输入法切换到中文全交，然后在段首输入空格，即可缩进。
 <center> <img src="images/contribution/Image 18.png" /> </center>
-- 如何居中：使用html标签 center。例如：
+- 如何居中：使用 html 标签 center。例如：
 
-```<center> 这是居中！ </center>```
-
+```
+<center> 这是居中！ </center>
+```
+显示效果：
+<center> 这是居中！ </center>
