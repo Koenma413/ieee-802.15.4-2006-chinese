@@ -34,4 +34,5 @@
    * 6.8 868/915 MHz O-QPSK 规范
    * 6.9 通用无线规范
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
+   * 7.1 MAC 子层服务规范
 
