@@ -34,5 +34,6 @@
        * 6.1.7 接收灵敏度定义
    * 6.2 物理层范围规范
    * 6.3 PPDU 格式
+   * 6.4 PHY 常量 和 PIB 属性
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
