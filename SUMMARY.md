@@ -76,7 +76,7 @@
        * [7.5.4 同步](7/7.5.4 Synchronization.md)
        * [7.5.5 事务处理](7/7.5.5 Transaction handling.md)
        * [7.5.6 传输、接收和确认](7/7.5.6 Transmission, reception, and acknowledgment.md)
-       * 7.5.7 GTS 分配和管理
+       * [7.5.7 GTS 分配和管理](7/7.5.7 GTS allocation and management.md)
    * [7.6 安全规范](7/7.6 Security suite specifications.md)
    * 7.7 消息队列图表
 
