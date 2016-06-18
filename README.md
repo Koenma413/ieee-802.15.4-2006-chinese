@@ -61,8 +61,8 @@
 　　[6.8 868/915 MHz O-QPSK 规范](6/6.8 868/915 MHz band (optional)|  |
 　　[6.9 通用无线规范](6/6.9 General radio specifications.md)|  |
 [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)||
-　　[7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)||
-　　　　[7.1.1 MAC 数据服务](7/7.1.1 MAC data service.md)||
+　　[7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[7.1.1 MAC 数据服务](7/7.1.1 MAC data service.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[7.1.2 MAC 管理服务](7/7.1.2 MAC management service.md)||
 　　　　[7.1.3 关联原语](7/7.1.3 Association primitives.md)||
 　　　　[7.1.4 解关联原语](7/7.1.4 Disassociation primitives.md)||
@@ -79,9 +79,9 @@
 　　　　[7.1.15 与协调器同步原语](7/7.1.15 Primitives for synchronizing with a coordinator.md)||
 　　　　[7.1.16 从协调器请求数据原语](7/7.1.16 Primitives for requesting data from a coordinator.md)||
 　　　　[7.1.17 MAC 枚举描述](7/7.1.17 MAC enumeration description.md)||
-　　[7.2 MAC 帧格式](7/7.2 MAC frame formats.md)||
-　　　　[7.2.1 通用 MAC 帧格式](7/7.2.1 General MAC frame format.md)||
-　　　　[7.2.2 私有帧格式](7/7.2.2 Format of individual frame types.md)||
+　　[7.2 MAC 帧格式](7/7.2 MAC frame formats.md)|||已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[7.2.1 通用 MAC 帧格式](7/7.2.1 General MAC frame format.md)|||已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[7.2.2 私有帧格式](7/7.2.2 Format of individual frame types.md)|||已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[7.2.3 帧兼容性](7/7.2.3 Frame compatibility.md)||
 　　[7.3 MAC 命令帧](7/7.3 MAC command frames.md)||
 　　　　[7.3.1 关联请求命令](7/7.3.1 Association request command.md)||
