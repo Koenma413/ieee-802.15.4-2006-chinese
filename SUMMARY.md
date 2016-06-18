@@ -35,7 +35,7 @@
    * 6.2 物理层范围规范
    * 6.3 PPDU 格式
    * 6.4 PHY 常量 和 PIB 属性
-   * 6.5 2450 MHz 物理层规范
+   * 6.5 2450 MHz 规范
    * 6.6 868/916 MHz BPSK 规范
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
