@@ -25,7 +25,6 @@
    * 5.6 原语的概念
 * 6 物理层规范
    * [6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)
-       * 6.1.1 操作频率范围
        * 6.1.2 信道分配
        * 6.1.3 LIFS 和 SIFS
        * 6.1.4 RF 电源测量
