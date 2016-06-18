@@ -43,23 +43,23 @@
 　　　　[5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY)||
 　　　　[5.4.2 MAC 子层](5/5.4.2 MAC sublayer.md)||
 　　[5.5 功能概述](5/5.5 Functional overview.md)||
-　　　　5.5.1 超帧结构||
-　　　　5.5.2 数据传输模型||
-　　　　5.5.3 帧结构||
-　　　　5.5.4 提高成功传输的概率||
-　　　　5.5.5 电源消耗||
-　　　　5.5.6 安全||
-　　5.6 原语的概念||
-6 物理层规范||
-　　[6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)||
-　　6.2 物理层范围规范||
-　　[6.3 PPDU 格式](6/6.3 PPDU format.md)||
-　　6.4 PHY 常量 和 PIB 属性||
-　　6.5 2450 MHz 规范||
-　　6.6 868/916 MHz BPSK 规范||
-　　6.7 868/915 MHz ASK 规范||
-　　6.8 868/915 MHz O-QPSK 规范||
-　　6.9 通用无线规范||
+　　　　[5.5.1 超帧结构](5/5.5.1 Superframe structure.md) |  |
+　　　　[5.5.2 数据传输模型](5/5.5.2 Data transfer model.md)|  |
+　　　　[5.5.3 帧结构](5/5.5.3 Frame structure.md)　|  |
+　　　　[5.5.4 提高成功传输的概率](5/5.5.4 Improving probability of successful delivery.md)|  |
+　　　　[5.5.5 电源消耗](5/5.5.5 Power consumption considerations.md)|  |
+　　　　[5.5.6 安全](5/5.5.6 Security.md)|  |
+　　[5.6 原语的概念](5/5.6 Concept of primitives.md)|  |
+[6 物理层规范](6/6. PHY specification.md)|  |
+　　[6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)|  |
+　　[6.2 物理层范围规范](6/6.2 PHY service specifications.md)|  |
+　　[6.3 PPDU 格式](6/6.3 PPDU format.md)|  |
+　　[6.4 PHY 常量 和 PIB 属性](6/6.4 PHY constants and PIB attributes.md)|  |
+　　[6.5 2450 MHz 规范](6/6.5 2450 MHz PHY specifications.md)|  |
+　　[6.6 868/916 MHz BPSK 规范](6/6.6 868/915 MHz band binary phase-shift keying (BPSK)|  |
+　　[6.7 868/915 MHz ASK 规范](6/6.7 868/915 MHz band (optional)|  |
+　　[6.8 868/915 MHz O-QPSK 规范](6/6.8 868/915 MHz band (optional)|  |
+　　[6.9 通用无线规范](6/6.9 General radio specifications.md)|  |
 [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)||
 　　[7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)||
 　　　　[7.1.1 MAC 数据服务](7/7.1.1 MAC data service.md)||
