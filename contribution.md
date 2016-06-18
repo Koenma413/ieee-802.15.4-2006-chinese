@@ -37,5 +37,13 @@ git push origin chapter_5.1
 ```
 ## 在 Gitbook 中导入仓库
 进入 Gitbook 主页，用您的 Github 账户登录 Gitbook。
+> 如果您是第一次登录 Gitbook，需要进行授权。在弹出的新窗口中，选择```Authroize Application```即可。
 
 新建一本书，将书的类型选为 GITHUB。
+
+> 如果您是第一次使用 Gitbook 创建书籍，需要再次授权。点击 Link to your Github，然后在新弹出的窗口宏，选择```Authroize Application```。
+> <center> <img src="" /> </center>
+
+在上图中，先选择好您的 Github 仓库，再填好您在 Gitbook 上要创建的书籍的标题和链接，然后点击```Create book```按钮。
+
+此时，Gitbook 会从您的
