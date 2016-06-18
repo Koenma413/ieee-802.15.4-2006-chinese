@@ -10,12 +10,12 @@
 
 ## clone 到本地
 
-fork 成功后，进入该项目，点击右边的```Clone or Download```，在弹出的小窗口中将您的仓库地址复制到粘贴板。
+fork 成功后，进入该项目，点击右边的```Clone or Download```，在弹出的小窗口中将**您的仓库地址复制到剪切板**。
 
 <center> <img src="images/contribution/Image 2.png" /> </center>
 
 
-进入您的 Linux 或者 Windows，将您的项目**克隆到本地**，比如：
+进入您的 Linux 或者 Windows，**将您的项目克隆到本地**，比如：
 
 ```
 git clone git@github.com:jchunhua163/ieee-802.15.4-2006-chinese.git
@@ -39,13 +39,13 @@ git remote add tidyjiang8 https://github.com/tidyjiang8/ieee-802.15.4-2006-chine
 git remote update
 ```
 
-基于我最新的仓库创建一个新分支，比如：
+**基于我最新的仓库创建一个新分支**，比如：
 
 ```
 git checkout tidyjiang8/master -b chapter_5.1
 ```
 
-将新分支推送到您的远程仓库：
+**将新分支推送到您的远程仓库**：
 
 ```
 git push origin chapter_5.1
