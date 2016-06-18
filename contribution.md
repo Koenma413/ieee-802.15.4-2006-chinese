@@ -7,15 +7,22 @@
 
 点击右边的 fork，将我的仓库 fork 到您的用户下。
 <center> <img src="images/contribution/Image 1.png" /> </center>
+
 ## clone 到本地
 
 fork 成功后，进入该项目，点击右边的```Clone or Download```，在弹出的小窗口中将您的仓库地址复制到粘贴板。
+
 <center> <img src="images/contribution/Image 2.png" /> </center>
+
+
 进入您的 Linux 或者 Windows，将您的项目**克隆到本地**，比如：
+
 ```
 git clone git@github.com:jchunhua163/ieee-802.15.4-2006-chinese.git
 ```
+
 > 将后面的仓库地址换成您对应的地址。
+
 
  ## 将您 fork 后的仓库与我的仓库同步
 为了避免您提交的改动与我的仓库的改动产生冲突，您需要在我的最新版的基础上做修改。
@@ -53,11 +60,18 @@ git push origin chapter_5.1
 
 <center> <img src="images/contribution/Image 3.png" /> </center>
 
+<center> <img src="images/contribution/Image 7.png" /> </center>
+
 新建一本书，将书的类型选为 GITHUB。
 
 > 如果您是第一次使用 Gitbook 创建书籍，需要再次授权。点击 Link to your Github，然后在新弹出的窗口宏，选择```Authroize Application```。
 > 
-> <center> <img src="" /> </center>
+> <center> <img src="images/contribution/Image 6.png" /> </center>
+
+
+
+<center> <img src="images/contribution/Image 4.png" /> </center>
+<center> <img src="images/contribution/Image 5.png" /> </center>
 
 在上图中，先选择好您的 Github 仓库，再填好您在 Gitbook 上要创建的书籍的标题和链接，然后点击```Create book```按钮。
 
