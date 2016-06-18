@@ -84,4 +84,5 @@
        * [7.6.3 安全操作](7/7.6.3 Security operations.md)
    * [7.7 消息队列图表](7/7.7 Message sequence charts illustrating MAC-PHY interaction.md)
 * 附录 A
+* 附录 B
 
