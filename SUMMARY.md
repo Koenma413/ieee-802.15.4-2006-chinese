@@ -28,5 +28,6 @@
        * 6.1.1 操作频率范围
        * 6.1.2 信道分配
        * 6.1.3 LIFS 和 SIFS
+       * 6.1.4 RF 电源测量
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
