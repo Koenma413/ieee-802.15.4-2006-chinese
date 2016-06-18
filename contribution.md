@@ -62,7 +62,7 @@ git push origin chapter_5.1
 
 <center> <img src="images/contribution/Image 7.png" /> </center>
 
-新建一本书:
+**新建一本书**:
 
 <center> <img src="images/contribution/Image 4.png" /> </center>
 
