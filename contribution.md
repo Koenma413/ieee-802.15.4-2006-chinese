@@ -103,7 +103,10 @@ git push origin chapter_5.1
 
 ## 提交 Pull Request
 
-先编辑代码，然后保存。
-> 注意，编辑前一定要将您的分支切换到所创建的对应分支。比如我将分支切换到chapter_5.1
+先在 Gitbook 的编辑器中编辑代码，然后保存。
+> 注意，编辑前一定要将您的分支切换到所创建的对应分支。比如我将分支切换到```chapter_5.1```：
+> <center> <img src="images/contribution/Image 12.png" /> </center>
+
+
 
 
