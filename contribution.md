@@ -140,3 +140,10 @@ git push origin chapter_5.1
 ```
 显示效果：
 <center> 这是居中！ </center>
+
+- **如何插入图片**：我会将本项目所有需要用到的图片都上传到仓库里，您可以直接使用。通用使用标签：
+
+```
+<center> <img src="images/contribution/Image 17.png" /> </center>
+```
+您只需将对应图片的路径替换掉即可。
