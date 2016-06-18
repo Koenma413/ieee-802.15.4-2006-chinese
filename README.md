@@ -21,4 +21,9 @@
 　　**进入 [gitter](https://gitter.im/tidyjiang8/ieee802154) 聊天室**：
 >  [https://gitter.im/tidyjiang8/ieee802154](https://gitter.im/tidyjiang8/ieee802154)
 
+# 翻译进度
+章节 | 内容 | 状态 
+--- | --- | ---
+
+
 
