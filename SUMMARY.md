@@ -51,6 +51,7 @@
        * [7.1.14 更新超帧结构原语](7/7.1.14 Primitives for updating the superframe configuration.md)
        * [7.1.15 与协调器同步原语](7/7.1.15 Primitives for synchronizing with a coordinator.md)
        * [7.1.16 从协调器请求数据原语](7/7.1.16 Primitives for requesting data from a coordinator.md)
+       * 7.1.17 MAC 枚举描述
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
