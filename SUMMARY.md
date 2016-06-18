@@ -41,7 +41,7 @@
        * [7.1.4 解关联原语](7/7.1.4 Disassociation primitives.md)
        * [7.1.5 信标帧通知原语](7/7.1.5 Beacon notification primitive.md)
        * [7.1.6 读取 PIB 属性原语](7/7.1.6 Primitives for reading PIB attributes.md)
-       * 7.1.7 GTS  管理原语
+       * [7.1.7 GTS  管理原语](7/7.1.7 GTS management primitives.md)
        * [7.1.8 孤立通知原语](7/7.1.8 Primitives for orphan notification.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
