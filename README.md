@@ -38,7 +38,7 @@
 [3 定义](3/3.Definitions.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 [4 缩略语](4/4 Acronyms_and_abbreviations.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 [5 通用描述](5/5.General_description.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
-　　[5.1 介绍](5/5.1.Introduction.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.1 介绍](5/5.1.Introduction.md)|已完成| [tidyjiang8](https://github.com/tidyjiang8)
 　　[5.2  IEEE 802.15.4 WPAN 的组成](5/5.2.omponents_of_the_IEEE_802.15.4_WPAN.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　[5.3 网络拓扑](5/5.3 Network topologies.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[5.3.1 星型网络](5/5.3.1 Star network formation.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
