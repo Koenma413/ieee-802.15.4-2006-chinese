@@ -81,5 +81,6 @@
    * [7.6 安全规范](7/7.6 Security suite specifications.md)
        * [7.6.1 PIB 安全材料](7/7.6.1 PIB security material.md)
        * [7.6.2 附加安全头](7/7.6.2 Auxiliary security header.md)
+       * 7.6.3 安全操作
    * 7.7 消息队列图表
 
