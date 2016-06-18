@@ -29,27 +29,27 @@
 
 章节 | 状态 | 贡献者
 --- | --- |---
-[1 概述](1/1.Overview.md)||
-[2 引用标准](2/2.Normative_references.md)||
-[3 定义](3/3.Definitions.md)||
-[4 缩略语](4/4 Acronyms_and_abbreviations.md)||
-[5 通用描述](5/5.General_description.md)||
-　　[5.1 介绍](5/5.1.Introduction.md)||
-　　[5.2  IEEE 802.15.4 WPAN 的组成](5/5.2.omponents_of_the_IEEE_802.15.4_WPAN.md)||
-　　[5.3 网络拓扑](5/5.3 Network topologies.md)||
-　　　　[5.3.1 星型网络](5/5.3.1 Star network formation.md)||
-　　　　[5.3.2 对等网络](5/5.3.2 Peer-to-peer network formation.md)||
-　　[5.4 架构](5/5.4 Architecture.md)||
-　　　　[5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY)||
-　　　　[5.4.2 MAC 子层](5/5.4.2 MAC sublayer.md)||
-　　[5.5 功能概述](5/5.5 Functional overview.md)||
-　　　　[5.5.1 超帧结构](5/5.5.1 Superframe structure.md) |  |
-　　　　[5.5.2 数据传输模型](5/5.5.2 Data transfer model.md)|  |
-　　　　[5.5.3 帧结构](5/5.5.3 Frame structure.md)　|  |
-　　　　[5.5.4 提高成功传输的概率](5/5.5.4 Improving probability of successful delivery.md)|  |
-　　　　[5.5.5 电源消耗](5/5.5.5 Power consumption considerations.md)|  |
-　　　　[5.5.6 安全](5/5.5.6 Security.md)|  |
-　　[5.6 原语的概念](5/5.6 Concept of primitives.md)|  |
+[1 概述](1/1.Overview.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+[2 引用标准](2/2.Normative_references.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+[3 定义](3/3.Definitions.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+[4 缩略语](4/4 Acronyms_and_abbreviations.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+[5 通用描述](5/5.General_description.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.1 介绍](5/5.1.Introduction.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.2  IEEE 802.15.4 WPAN 的组成](5/5.2.omponents_of_the_IEEE_802.15.4_WPAN.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.3.1 星型网络](5/5.3.1 Star network formation.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.3.2 对等网络](5/5.3.2 Peer-to-peer network formation.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.4 架构](5/5.4 Architecture.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.4.2 MAC 子层](5/5.4.2 MAC sublayer.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.5 功能概述](5/5.5 Functional overview.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.1 超帧结构](5/5.5.1 Superframe structure.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.2 数据传输模型](5/5.5.2 Data transfer model.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.3 帧结构](5/5.5.3 Frame structure.md)　|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.4 提高成功传输的概率](5/5.5.4 Improving probability of successful delivery.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.5 电源消耗](5/5.5.5 Power consumption considerations.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.5.6 安全](5/5.5.6 Security.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　[5.6 原语的概念](5/5.6 Concept of primitives.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 [6 物理层规范](6/6. PHY specification.md)|  |
 　　[6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)|  |
 　　[6.2 物理层范围规范](6/6.2 PHY service specifications.md)|  |
