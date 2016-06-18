@@ -38,7 +38,7 @@
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
-   * 7.5 MAC 功能描述
+   * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
    * 7.6 安全规范
    * 7.7 消息队列图表
 
