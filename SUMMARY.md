@@ -85,4 +85,5 @@
    * [7.7 消息队列图表](7/7.7 Message sequence charts illustrating MAC-PHY interaction.md)
 * 附录 A
 * 附录 B
+* 附录 C
 
