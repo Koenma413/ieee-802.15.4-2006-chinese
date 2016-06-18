@@ -1,8 +1,41 @@
 # 贡献代码
 
+## fork 我的项目
 登录您的 [Github](http://github.com/) 账户。
 点击下面的连接，进入我的仓库
 > [https://github.com/tidyjiang8/ieee-802.15.4-2006-chinese](https://github.com/tidyjiang8/ieee-802.15.4-2006-chinese)
 
-点击右边的 fork，将我的仓库 fork 到你的用户下。
+点击右边的 fork，将我的仓库 fork 到您的用户下。
+## clone 到本地
 
+fork 成功后，进入该项目，点击右边的```Clone or Download```，在弹出的小窗口中将您的仓库地址复制到粘贴板。
+
+进入您的 Linux 或者 Windows，将您的项目**克隆到本地**，比如：
+```
+git clone git@github.com:jchunhua163/ieee-802.15.4-2006-chinese.git
+```
+> 将后面的仓库地址换成您对应的地址。
+
+## 将您 fork 后的仓库与我的仓库同步
+为了避免您提交的改动与我的仓库的改动产生冲突，您需要在我的最新版的基础上做修改。
+
+**添加我的仓库作为您的远程源**：
+```
+git remote add tidyjiang8 https://github.com/tidyjiang8/ieee-802.15.4-2006-chinese
+```
+**更新远程源**：
+```
+git remote update
+```
+基于我最新的仓库创建一个新分支，比如：
+```
+git checkout tidyjiang8/master -b chapter_5.1
+```
+将新分支推送到您的远程仓库：
+*```
+git push origin chapter_5.1
+```
+## 在 Gitbook 中导入仓库
+进入 Gitbook 主页，用您的 Github 账户登录 Gitbook。
+
+新建一本书，将书的类型选为 GITHUB。
