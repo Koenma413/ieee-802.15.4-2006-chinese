@@ -103,10 +103,29 @@ git push origin chapter_5.1
 
 ## 提交 Pull Request
 
-先在 Gitbook 的编辑器中编辑代码，然后保存。
+**先在 Gitbook 的编辑器中编辑代码，然后保存**。
 > 注意，编辑前一定要将您的分支切换到所创建的对应分支。比如我将分支切换到```chapter_5.1```：
 > <center> <img src="images/contribution/Image 12.png" /> </center>
 
+<center> <img src="images/contribution/Image 13.png" /> </center>
+
+进入 Github。找到对应的文件，然后将分支切换到 ```chapter_5.1```，我们可以看到，在 Gitbook 中编辑的内容已经自动同步到 Github 里了：
 
 
 
+<center> <img src="images/contribution/Image 14.png" /> </center>
+进入仓库的根目录，点击下面的```New Pull Request```：
+
+
+<center> <img src="images/contribution/Image 15.png" /> </center>
+
+在新出来的页面中，选择右边的分支为新创建的分支，然后点击```Create pull request```：
+
+<center> <img src="images/contribution/Image 16.png" /> </center>
+
+再次确认右边的分支是您的新分支，然后填写```Pull Request```的标题和正文，简要说明您的 Pull Request 都做了哪些修改。最后点击右下角的```Create pull request```。
+<center> <img src="images/contribution/Image 17.png" /> </center>
+
+这样，您就完成了一次```pull request```。
+
+我会收到系统发的邮件，告诉我有人已经申请 pul request，我会检查您的改动。如果没有问题，我就会将您的```pull request```合并到我的主分支上。如果有问题，我会在该pull request页面留言(此时系统也会向您发送邮件)。
