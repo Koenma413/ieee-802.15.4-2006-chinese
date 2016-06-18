@@ -25,7 +25,6 @@
    * 5.6 原语的概念
 * 6 物理层规范
    * [6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)
-       * 6.7 868/915 MHz ASK 规范
    * 6.2 物理层范围规范
    * [6.3 PPDU 格式](6/6.3 PPDU format.md)
    * 6.4 PHY 常量 和 PIB 属性
