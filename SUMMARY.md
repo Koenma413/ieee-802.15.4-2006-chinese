@@ -31,7 +31,7 @@
    * [6.5 2450 MHz 规范](6/6.5 2450 MHz PHY specifications.md)
    * [6.6 868/916 MHz BPSK 规范](6/6.6 mhz_band_binary_phase-shift_keying_bpsk.md)
    * [6.7 868/915 MHz ASK 规范](6/6.7 mhz_band_optional.md)
-   * [6.8 868/915 MHz O-QPSK 规范](6/6.8 868/915 MHz band (optional)
+   * [6.8 868/915 MHz O-QPSK 规范](6/6.8 mhz_band_optional.md)
    * [6.9 通用无线规范](6/6.9 General radio specifications.md)
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
    * [7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)
