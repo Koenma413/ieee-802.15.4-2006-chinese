@@ -40,7 +40,7 @@
 　　　　[5.3.1 星型网络](5/5.3.1 Star network formation.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[5.3.2 对等网络](5/5.3.2 Peer-to-peer network formation.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　[5.4 架构](5/5.4 Architecture.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
-　　　　[5.4.1 物理层 PHY](5/5.4.1 Physical layer (PHY)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
+　　　　[5.4.1 物理层 PHY](5/5.4.1 physical_layer_phy.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[5.4.2 MAC 子层](5/5.4.2 MAC sublayer.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　[5.5 功能概述](5/5.5 Functional overview.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
 　　　　[5.5.1 超帧结构](5/5.5.1 Superframe structure.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
@@ -56,9 +56,9 @@
 　　[6.3 PPDU 格式](6/6.3 PPDU format.md)|  |
 　　[6.4 PHY 常量 和 PIB 属性](6/6.4 PHY constants and PIB attributes.md)|  |
 　　[6.5 2450 MHz 规范](6/6.5 2450 MHz PHY specifications.md)|  |
-　　[6.6 868/916 MHz BPSK 规范](6/6.6 868/915 MHz band binary phase-shift keying (BPSK)|  |
-　　[6.7 868/915 MHz ASK 规范](6/6.7 868/915 MHz band (optional)|  |
-　　[6.8 868/915 MHz O-QPSK 规范](6/6.8 868/915 MHz band (optional)|  |
+　　[6.6 868/916 MHz BPSK 规范](6/6.6 mhz_band_binary_phase-shift_keying_bpsk.md)|  |
+　　[6.7 868/915 MHz ASK 规范](6/6.7 mhz_band_optional.md)|  |
+　　[6.8 868/915 MHz O-QPSK 规范](6/6.8 mhz_band_optional.md)|  |
 　　[6.9 通用无线规范](6/6.9 General radio specifications.md)|  |
 [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)||
 　　[7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)|已领取，正在翻译...| [tidyjiang8](https://github.com/tidyjiang8)
