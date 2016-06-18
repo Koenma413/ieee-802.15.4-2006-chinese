@@ -43,7 +43,7 @@
        * [7.1.6 读取 PIB 属性原语](7/7.1.6 Primitives for reading PIB attributes.md)
        * [7.1.7 GTS  管理原语](7/7.1.7 GTS management primitives.md)
        * [7.1.8 孤立通知原语](7/7.1.8 Primitives for orphan notification.md)
-       * 7.1.9 MAC 子层服务原语
+       * [7.1.9 MAC 子层服务原语](7/7.1.9 Primitives for resetting the MAC sublayer.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
