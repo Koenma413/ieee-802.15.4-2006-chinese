@@ -54,7 +54,7 @@
        * [7.1.17 MAC 枚举描述](7/7.1.17 MAC enumeration description.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
        * [7.2.1 通用 MAC 帧格式](7/7.2.1 General MAC frame format.md)
-       * 7.2.2 私有帧格式
+       * [7.2.2 私有帧格式](7/7.2.2 Format of individual frame types.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
    * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
