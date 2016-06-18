@@ -72,7 +72,7 @@
    * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
        * [7.5.1 信道访问](7/7.5.1 Channel access.md)
        * [7.5.2 启动、维护 PAN](7/7.5.2 Starting and maintaining PANs.md)
-       * 7.5.3 关联和解关联
+       * [7.5.3 关联和解关联](7/7.5.3 Association and disassociation.md)
    * [7.6 安全规范](7/7.6 Security suite specifications.md)
    * 7.7 消息队列图表
 
