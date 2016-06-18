@@ -130,10 +130,10 @@ git push origin chapter_5.1
 
 我会收到系统发的邮件，告诉我有人已经申请 pul request，我会检查您的改动。如果没有问题，我就会将您的```pull request```合并到我的主分支上。如果有问题，我会在该pull request页面留言(此时系统也会向您发送邮件)。
 ## Gitbook 编辑常见问题
-- 如何换行：连敲两次回车键，即可换行。
-- 首字母如何缩进：将您的输入法切换到中文全交，然后在段首输入空格，即可缩进。
+- **如何换行**：连敲两次回车键，即可换行。
+- **如何缩进**：将您的输入法切换到中文全交，然后在段首输入空格，即可缩进。
 <center> <img src="images/contribution/Image 18.png" /> </center>
-- 如何居中：使用 html 标签 center。例如：
+- **如何居中**：使用 html 标签 center。例如：
 
 ```
 <center> 这是居中！ </center>
