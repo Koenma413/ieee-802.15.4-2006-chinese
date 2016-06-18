@@ -68,6 +68,7 @@
        * [7.3.9 GTS 请求命令](7/7.3.9 GTS request command.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
        * [7.4.1 MAC 常量](7/7.4.1 MAC constants.md)
+       * 7.4.2 MAC PIB 属性
    * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
    * [7.6 安全规范](7/7.6 Security suite specifications.md)
    * 7.7 消息队列图表
