@@ -26,5 +26,6 @@
 * 6 物理层规范
    * [6.1 通用需求和定义](6/6.1.General_requirements_and_definitions.md)
        * 6.1.1 操作频率范围
+       * 6.1.2 信道分配
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
