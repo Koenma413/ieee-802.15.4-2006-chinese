@@ -28,7 +28,7 @@
    * [6.2 物理层范围规范](6/6.2 PHY service specifications.md)
    * [6.3 PPDU 格式](6/6.3 PPDU format.md)
    * [6.4 PHY 常量 和 PIB 属性](6/6.4 PHY constants and PIB attributes.md)
-   * 6.5 2450 MHz 规范
+   * [6.5 2450 MHz 规范](6/6.5 2450 MHz PHY specifications.md)
    * 6.6 868/916 MHz BPSK 规范
    * 6.7 868/915 MHz ASK 规范
    * 6.8 868/915 MHz O-QPSK 规范
