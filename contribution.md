@@ -47,3 +47,8 @@ git push origin chapter_5.1
 在上图中，先选择好您的 Github 仓库，再填好您在 Gitbook 上要创建的书籍的标题和链接，然后点击```Create book```按钮。
 
 此时，Gitbook 会从您的 Github 仓库同步您的书籍。稍微等待一会儿，如果长时间一直在同步，请刷新页面。然后就可以看到，我们已经成功地在 Gitbook 上创建了一本书。
+## 使用 Gitbook 编辑书籍
+点击右上角的 Gitbook 在线编辑按钮，您就可以在线编辑这本书了。
+下图是 Gitbook 编辑器的页面：
+
+。
