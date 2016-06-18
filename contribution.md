@@ -78,6 +78,7 @@ git push origin chapter_5.1
 
 此时，Gitbook 会从您的 Github 仓库同步您的书籍。稍微等待一会儿，如果长时间一直在同步，请刷新页面。然后就可以看到，我们已经成功地在 Gitbook 上创建了一本书。
 <center> <img src="images/contribution/Image 10.png" /> </center>
+
 ## 使用 Gitbook 编辑书籍
 点击右上角的 Gitbook 在线编辑按钮，您就可以在线编辑这本书了。
 
