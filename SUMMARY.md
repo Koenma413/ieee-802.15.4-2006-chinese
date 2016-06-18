@@ -29,5 +29,6 @@
        * 6.1.2 信道分配
        * 6.1.3 LIFS 和 SIFS
        * 6.1.4 RF 电源测量
+       * 6.1.5 传输电源
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
