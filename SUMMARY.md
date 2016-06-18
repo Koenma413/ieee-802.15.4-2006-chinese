@@ -39,5 +39,6 @@
    * 6.5 2450 MHz 规范
    * 6.6 868/916 MHz BPSK 规范
    * 6.7 868/915 MHz ASK 规范
+   * 6.8 868/915 MHz O-QPSK 规范
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
 
