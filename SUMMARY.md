@@ -45,7 +45,7 @@
        * [7.1.8 孤立通知原语](7/7.1.8 Primitives for orphan notification.md)
        * [7.1.9 MAC 子层服务原语](7/7.1.9 Primitives for resetting the MAC sublayer.md)
        * [7.1.10 接收器时间使能原语](7/7.1.10 Primitives for specifying the receiver enable time.md)
-       * 7.1.11 信道扫描原语
+       * [7.1.11 信道扫描原语](7/7.1.11 Primitives for channel scanning.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
