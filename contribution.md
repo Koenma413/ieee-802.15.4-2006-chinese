@@ -66,7 +66,7 @@ git push origin chapter_5.1
 
 <center> <img src="images/contribution/Image 4.png" /> </center>
 
-将书的类型选为 GITHUB。
+**将书的类型选为 GITHUB**。
 
 > 如果您是第一次使用 Gitbook 创建书籍，需要再次授权。点击 Link to your Github，然后在新弹出的窗口宏，选择```Authroize Application```。
 > 
