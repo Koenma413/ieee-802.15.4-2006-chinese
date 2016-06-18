@@ -53,7 +53,7 @@ git push origin chapter_5.1
 
 ## 在 Gitbook 中导入书籍
 
-进入 Gitbook 主页，用您的 Github 账户登录 Gitbook。
+进入 Gitbook 主页，**用您的 Github 账户登录 Gitbook**。
 
 > 如果您是第一次登录 Gitbook，需要进行授权。在弹出的新窗口中，选择```Authroize Application```即可。
 
