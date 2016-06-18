@@ -19,6 +19,7 @@ git clone git@github.com:jchunhua163/ieee-802.15.4-2006-chinese.git
 
 <center> <img src="images/contribution/Image 1.png"
  /> </center>
+ 
  ## 将您 fork 后的仓库与我的仓库同步
 为了避免您提交的改动与我的仓库的改动产生冲突，您需要在我的最新版的基础上做修改。
 
