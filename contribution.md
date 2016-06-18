@@ -74,7 +74,7 @@ git push origin chapter_5.1
 
 <center> <img src="images/contribution/Image 5.png" /> </center>
 
-在上图中，先选择好您的 Github 仓库，再填好您在 Gitbook 上要创建的书籍的标题和链接，然后点击```Create book```按钮。
+在上图中，先**选择好您的 Github 仓库，再填好您在 Gitbook 上要创建的书籍的标题和链接，然后点击```Create book```按钮**。
 
 此时，Gitbook 会从您的 Github 仓库同步您的书籍。稍微等待一会儿，如果长时间一直在同步，请刷新页面。然后就可以看到，我们已经成功地在 Gitbook 上创建了一本书。
 <center> <img src="images/contribution/Image 10.png" /> </center>
@@ -102,6 +102,9 @@ git push origin chapter_5.1
 
 ⑧：预览区。编辑区的显示效果不是最终的效果，预览区的显示效果才是最终的效果。
 
+您也可是使用 **Gitbook 离线编辑器**：
+> [https://www.gitbook.com/editor](https://www.gitbook.com/editor)
+
 ## 提交 Pull Request
 
 **先在 Gitbook 的编辑器中编辑代码，然后保存**。
@@ -115,16 +118,17 @@ git push origin chapter_5.1
 
 
 <center> <img src="images/contribution/Image 14.png" /> </center>
-进入仓库的根目录，点击下面的```New Pull Request```：
+
+**进入仓库的根目录，点击下面的```New Pull Request```**：
 
 
 <center> <img src="images/contribution/Image 15.png" /> </center>
 
-在新出来的页面中，选择右边的分支为新创建的分支，然后点击```Create pull request```：
+在新出来的页面中，选择**右边的分支为新创建的分支，然后点击```Create pull request```**：
 
 <center> <img src="images/contribution/Image 16.png" /> </center>
 
-再次确认右边的分支是您的新分支，然后填写```Pull Request```的标题和正文，简要说明您的 Pull Request 都做了哪些修改。最后点击右下角的```Create pull request```。
+再次确认右边的分支是您的新分支，然后**填写```Pull Request```的标题和正文**，简要说明您的 Pull Request 都做了哪些修改。最后点击右下角的```Create pull request```。
 <center> <img src="images/contribution/Image 17.png" /> </center>
 
 这样，您就完成了一次```pull request```。
