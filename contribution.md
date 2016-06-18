@@ -1,5 +1,16 @@
 # 贡献代码
 
+---
+主要内容：
+####　　fork 我的项目
+####　　clone 到本地
+####　　将您 fork 后的仓库与我的仓库同步
+####　　在 Gitbook 中导入书籍
+####　　使用 Gitbook 编辑书籍
+####　　提交 Pull Request
+####　　翻译约定
+####　　Gitbook 编辑常见问题
+---
 ## fork 我的项目
 **登录您的 [Github](http://github.com/) 账户**。
 点击下面的连接，进入我的仓库
