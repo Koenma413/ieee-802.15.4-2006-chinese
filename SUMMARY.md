@@ -40,7 +40,7 @@
        * [7.1.3 关联原语](7/7.1.3 Association primitives.md)
        * [7.1.4 解关联原语](7/7.1.4 Disassociation primitives.md)
        * [7.1.5 信标帧通知原语](7/7.1.5 Beacon notification primitive.md)
-       * 7.1.6 读取 PIB 属性原语
+       * [7.1.6 读取 PIB 属性原语](7/7.1.6 Primitives for reading PIB attributes.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
    * [7.4 MAC 常量和 PIB 属性](7/7.4 MAC constants and PIB attributes.md)
