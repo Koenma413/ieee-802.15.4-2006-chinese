@@ -35,7 +35,7 @@
    * 6.9 通用无线规范
 * [7 MAC 子层规范](7/7.MAC_sublayer_specification.md)
    * [7.1 MAC 子层服务规范](7/7.1 MAC sublayer service specification.md)
-       * [7.1 MAC 数据服务](7/7.1.1 MAC data service.md)
+       * [7.1.1 MAC 数据服务](7/7.1.1 MAC data service.md)
        * [7.1.2 MAC 管理服务](7/7.1.2 MAC management service.md)
    * [7.2 MAC 帧格式](7/7.2 MAC frame formats.md)
    * [7.3 MAC 命令帧](7/7.3 MAC command frames.md)
