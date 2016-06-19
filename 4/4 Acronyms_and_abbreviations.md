@@ -45,5 +45,3 @@ LPDU |LLC protocol data unit| LLC 协议数据单元
 LR-WPAN |low-rate wireless personal area network| 低速无线个域网
 LSB| least significant bit| 最低有效位
 MAC| medium access control| 媒体访问控制
-
-
