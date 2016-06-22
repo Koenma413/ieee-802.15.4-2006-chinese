@@ -75,10 +75,10 @@
            * [7.5.1.2 超帧收发时序](7/7.5.1.2 Incoming and outgoing superframe timing.md)
            * [7.5.1.3 帧间间隔（IFS）](7/7513_interframe_spacing_ifs.md)
            * [7.5.1.4 CSMA/CA 算法](7/7.5.1.4 CSMA-CA algorithm.md)
-           * 7.5.2.1.2 主动信道扫描
        * [7.5.2 启动、维护 PAN](7/7.5.2 Starting and maintaining PANs.md)
            * [7.5.2.1 扫描信道](7/7.5.2.1 Scanning through channels.md)
                * 7.5.2.1.1 ED 信道扫描
+               * 7.5.2.1.2 主动信道扫描
                * 7.5.2.1.3 被动信道扫描
            * [7.5.2.2 PAN 标识符冲突检测](7/7.5.2.2 PAN identifier conflict resolution.md)
            * 7.5.2.3 启动网络和重新组网
