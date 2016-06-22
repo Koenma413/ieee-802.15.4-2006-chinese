@@ -71,7 +71,7 @@
        * [7.4.2 MAC PIB 属性](7/7.4.2 MAC PIB attributes.md)
    * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
        * [7.5.1 信道访问](7/7.5.1 Channel access.md)
-           * [7.5.1 超帧结构](7/7.5.1.1 Superframe structure.md)
+           * [7.5.1.1 超帧结构](7/7.5.1.1 Superframe structure.md)
            * [7.5.1.2 超帧收发时序](7/7.5.1.2 Incoming and outgoing superframe timing.md)
            * [7.5.1.3 帧间间隔（IFS）](7/7.5.1.3 Interframe spacing (IFS)
            * [7.5.1.4 CSMA/CA 算法](7/7.5.1.4 CSMA-CA algorithm.md)
