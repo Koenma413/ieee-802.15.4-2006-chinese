@@ -71,6 +71,7 @@
        * [7.4.2 MAC PIB 属性](7/7.4.2 MAC PIB attributes.md)
    * [7.5 MAC 功能描述](7/7.5 MAC functional description.md)
        * [7.5.1 信道访问](7/7.5.1 Channel access.md)
+           * 7.5.1 超帧结构
        * [7.5.2 启动、维护 PAN](7/7.5.2 Starting and maintaining PANs.md)
            * [7.5.2.1 扫描信道](7/7.5.2.1 Scanning through channels.md)
            * [7.5.2.2 PAN 标识符冲突检测](7/7.5.2.2 PAN identifier conflict resolution.md)
