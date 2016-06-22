@@ -76,6 +76,7 @@
            * 7.5.2.2 PAN 标识符冲突检测
            * 7.5.2.3 启动网络和重新组网
            * 7.5.2.4 产生信标
+           * 7.2.5.5 发现设备
        * [7.5.3 关联和解关联](7/7.5.3 Association and disassociation.md)
        * [7.5.4 同步](7/7.5.4 Synchronization.md)
        * [7.5.5 事务处理](7/7.5.5 Transaction handling.md)
