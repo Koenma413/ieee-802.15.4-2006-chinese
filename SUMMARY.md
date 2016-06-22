@@ -77,7 +77,7 @@
            * [7.5.1.4 CSMA/CA 算法](7/7.5.1.4 CSMA-CA algorithm.md)
        * [7.5.2 启动、维护 PAN](7/7.5.2 Starting and maintaining PANs.md)
            * [7.5.2.1 扫描信道](7/7.5.2.1 Scanning through channels.md)
-               * 7.5.2.1.1 ED 信道扫描
+               * [7.5.2.1.1 ED 信道扫描](7/7.5.2.1.1 ED channel scan.md)
                * 7.5.2.1.2 主动信道扫描
                * 7.5.2.1.3 被动信道扫描
                * 7.5.2.1.4 孤立信道扫描
