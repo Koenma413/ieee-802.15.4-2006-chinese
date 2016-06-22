@@ -79,6 +79,7 @@
        * [7.5.2 启动、维护 PAN](7/7.5.2 Starting and maintaining PANs.md)
            * [7.5.2.1 扫描信道](7/7.5.2.1 Scanning through channels.md)
                * 7.5.2.1.1 ED 信道扫描
+               * 7.5.2.1.3 被动信道扫描
            * [7.5.2.2 PAN 标识符冲突检测](7/7.5.2.2 PAN identifier conflict resolution.md)
            * 7.5.2.3 启动网络和重新组网
            * 7.5.2.4 产生信标
