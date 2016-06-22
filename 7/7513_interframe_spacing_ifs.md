@@ -5,4 +5,4 @@ MAC 子层接收到物理层的数据时，需要一定的时间才能处理完�
 
 竞争接入阶段的 CSMA/CA 算法需要考虑这些。
 <center><img src="../images/Image 68.png"/></center>
-<center>图 67. 帧间隔</center>
+<center>图 68. 帧间隔</center>
