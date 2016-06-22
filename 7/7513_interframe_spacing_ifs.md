@@ -4,4 +4,4 @@
 
 　　竞争接入阶段的 CSMA/CA 算法需要考虑这些因素。
 <center><img src="../images/Image 68.png"/></center>
-<center>图 68. 帧间隔</center>
+<center>图 68. 帧间间隔</center>
