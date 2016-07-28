@@ -21,3 +21,13 @@
 　　**进入 [gitter](https://gitter.im/tidyjiang8/ieee802154) 聊天室**：
 >  [https://gitter.im/tidyjiang8/ieee802154](https://gitter.im/tidyjiang8/ieee802154)
 
+---
+
+后来找到一个中文版，已经上传到仓库里了。看了看，前面的内容翻译得不错，到后面就就不咋滴了，可以作为参考~
+
+今后有时间再翻译吧，然后把前面翻译过的也整理一下~~
+
+如果有朋友愿意翻译的，可以先翻译~
+
+tidyjiang@163.com
+
