@@ -21,5 +21,3 @@
 　　**进入 [gitter](https://gitter.im/tidyjiang8/ieee802154) 聊天室**：
 >  [https://gitter.im/tidyjiang8/ieee802154](https://gitter.im/tidyjiang8/ieee802154)
 
-　　**QQ 群**：
-> 347091757
